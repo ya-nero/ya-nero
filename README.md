@@ -8,4 +8,3 @@
 - 🤔 I’m looking for help with Assembly.
 - 💬 Ask me about anything in general, I'll do my best to help.
 - 📫 How to reach me: nero#2592 on Discord.
-- ⚡ Fun fact: I can say I am a professional guitarist.
