@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a simple "[Rock, Paper, Scissors](https://github.com/ya-nero/RockPaperScissors)" Python project.
+- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning Python, C.
 - 👯 I’m looking to collaborate on any Python project.
 - 🤔 I’m looking for help with Assembly.
