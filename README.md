@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Nero</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently working on **Chess AI**
+- 🔭 I’m currently working on a **Chess Game in C++**
 
 - 🌱 I’m currently learning **Assembly & Advanced C++**
 
